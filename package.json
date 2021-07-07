@@ -1,0 +1,24 @@
+{
+  "name": "wb-language-service",
+  "version": "1.0.0",
+  "description": "Select module",
+  "dependencies": {
+    "@angular/core": "^9.1.3",
+    "@angular-redux/store": "^9.0.0",
+    "@angular/common": "^9.1.3",
+    "rxjs": "6.5.5",
+    "rxjs-tslint": "0.1.5"
+  },
+  "devDependencies": {
+    "@angular/cli": "^9.1.3",
+    "tslib": "^1.10.0",
+    "jasmine-core": "^3.3.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "@types/jasmine": "^3.3.12"
+  },
+  "main": "language.service.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev.weldbook"
+}
